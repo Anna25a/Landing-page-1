@@ -1,0 +1,52 @@
+ul,
+ol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6,
+p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    color: #333;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* hero-title*/
+.hero-title {
+    font-weight: 700;
+     font-size: 56px;
+}
+
+.value-text {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.button-hero {
+    font-weight: 400;
+    font-size: 22px;
+    color: #fff;
+    border-radius: 40px;
+    background: #333;
+}
+/*second*/
+.stats-value {
+font-size: 24px;
+}
+
+.stats-title {
+    font-weight: 700;
+        font-size: 24px;
+}
+    
+    
